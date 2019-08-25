@@ -13,9 +13,6 @@ import {
 } from "react-native";
 import Icon from "react-native-vector-icons/dist/FontAwesome5";
 
-// Components
-import ButtonF from "./Components/Buttons/button";
-
 // Sheets
 import textColor from "./Utilities/textColor";
 import width from "./Utilities/width";

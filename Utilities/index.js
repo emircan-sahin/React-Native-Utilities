@@ -1,0 +1,11 @@
+export const backgroundColor = require('./bgColor').default;
+export const border = require('./border').default;
+export const flex = require('./flex').default;
+export const font = require('./font').default;
+export const height = require('./height').default;
+export const margin = require('./margin').default;
+export const padding = require('./padding').default;
+export const text = require('./text').default;
+export const textAlign = require('./textAlign').default;
+export const textColor = require('./textColor').default;
+export const width = require('./width').default;

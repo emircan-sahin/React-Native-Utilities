@@ -1,6 +1,9 @@
 import { StyleSheet } from "react-native";
 
 export default (bgColor = StyleSheet.create({
+    transparent: {
+        backgroundColor: "transparent"
+    },
     white: {
         backgroundColor: "#ffffff"
     },

@@ -1,6 +1,6 @@
 import { StyleSheet } from 'react-native';
 
-export default textAlig = StyleSheet.create({
+export default textAlign = StyleSheet.create({
     left: {
         textAlign: 'left'
     },

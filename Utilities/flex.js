@@ -1,6 +1,6 @@
 import { StyleSheet } from 'react-native';
 
-export default width = StyleSheet.create({
+export default flex = StyleSheet.create({
     f1: {
         flex: 1
     },
@@ -20,9 +20,11 @@ export default width = StyleSheet.create({
         flex: 6
     },
     row: {
+        display: 'flex',
         flexDirection: 'row'
     },
     column: {
+        display: 'flex',
         flexDirection: 'column'
     }
 });

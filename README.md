@@ -8,4 +8,4 @@ Biliyorsunuz ki React-Native'de web gibi yeni bir style dosyasına kişileştirm
 Örneklerde özel font, iconlar vs. eklenmiştir. Bunların paketlerini yükleyebilir veya kaldırabilirsiniz.
 
 # Örnekler - Examples:
-![screenshots](Frame 1.png)
+![Test Image 6](master/Frame 1.png)
